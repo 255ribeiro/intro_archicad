@@ -27,11 +27,16 @@ repo_name: "255ribeiro/intro_archicad"
 nav:
   - Home: index.md
   - Referências para modelagem: exemplo_projeto/projeto_modelo.md
+  - Interface: interface_arch/interface.md
   - Modelagem:
+    - Inserindo desenhos de referência: folhas_de_trabalho/referencias.md
     - Paredes:
+      - inserção: paredes/paredes.md
       - Junções: paredes/juncoes.md
+    
   - Roteiros:
-    - "Roteiro aula 1": roteiros/roteiro_aula_01.md
+    - Roteiro aula 1: roteiros/roteiro_aula_01.md
+    - Roteiro aula 2: roteiros/roteiro_aula_02.md
   
 
 markdown_extensions:

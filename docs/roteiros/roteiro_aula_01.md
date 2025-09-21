@@ -1,4 +1,4 @@
-# Atividade de Avaliação 01: Edital 
+# Roteiro 01 - Informações do projeto
 
 -----
 
@@ -55,7 +55,7 @@ Introdução
 </h4>
 
 Ao longo dessa disciplina será criado um modelo de Residência para que sejam praticados os comandos, ferramentas e utilidades do programa dentro do conceito BIM. Ao final de cada aula/roteiro o arquivo deverá ser salvo com o nome: Residência_Nome do aluno_Turma_Ano. O arquivo será utilizado como método avaliativo dos processos desenvolvidos ao longo desse roteiro.
-O objetivo principal dessa primeira aula é apresentar a interface do software Archicad 25 com todas as abas e funcionalidades. A partir disso serão organizadas as informações do projeto no arquivo, considerando as boas práticas do desenvolvimento do mesmo. O template BR do Archicad25 será utilizado como base para todos os alunos, serão feitas algumas alterações ao longo das aulas para compreender os recursos disponíveis. 
+O objetivo principal dessa primeira aula é apresentar a interface do software Archicad com todas as abas e funcionalidades. A partir disso serão organizadas as informações do projeto no arquivo, considerando as boas práticas do desenvolvimento do mesmo. O template BR do Archicad será utilizado como base para todos os alunos, serão feitas algumas alterações ao longo das aulas para compreender os recursos disponíveis. 
 
 <h4 style="background:lightblue"> Descrições e Procedimentos</h4>
 

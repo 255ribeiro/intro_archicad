@@ -11,4 +11,4 @@
 7. paredes cortina;
 8. Cotas e textos principais;
 9. impressão parte 1- mapa de vistas;
-10. impressão, mapa de layouts e conjunto publicador.
+10. impressão parte 2 - Livro de layouts e conjunto publicador.

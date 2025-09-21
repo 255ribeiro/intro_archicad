@@ -30,9 +30,24 @@ nav:
   - Interface: interface_arch/interface.md
   - Modelagem:
     - Inserindo desenhos de referência: folhas_de_trabalho/referencias.md
+    - Níveis de pisos: pisos/pisos.md
     - Paredes:
       - inserção: paredes/paredes.md
       - Junções: paredes/juncoes.md
+    - Esquadrias:
+      - Portas e janelas: janelas_portas/janelas_portas.md
+    - Paredes cortina: paredes_cortina/paredes_cortina.md
+    - Composições: composicoes/composicoes.md
+    - Cobertura: cobertura/cobertura.md
+    - Escadas: escadas/escadas.md
+  - Informações de desenho:
+    - cotas: dimensoes/dimensoes.md
+  - Zonas: zonas/zonas.md
+  - Impressão:
+    - mapa de vistas: impressao/mapa_de_vistas.md
+    - Livro de Leiautes: impressao/livro_de_layouts.md
+    - Conjunto Organizador: impressao/conjunto_pup.md
+    - Representação gráfica: docs/impressao/representacao.md
     
   - Roteiros:
     - Roteiro aula 1: roteiros/roteiro_aula_01.md

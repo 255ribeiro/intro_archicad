@@ -2,18 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://255ribeiro.github.io/intro_archicad/index.html</loc>
-         <lastmod>2025-03-19</lastmod>
+         <lastmod>2025-09-21</lastmod>
     </url>
     <url>
          <loc>https://255ribeiro.github.io/intro_archicad/exemplo_projeto/projeto_modelo.html</loc>
-         <lastmod>2025-03-19</lastmod>
+         <lastmod>2025-09-21</lastmod>
+    </url>
+    <url>
+         <loc>https://255ribeiro.github.io/intro_archicad/interface_arch/interface.html</loc>
+         <lastmod>2025-09-21</lastmod>
     </url>
     <url>
          <loc>https://255ribeiro.github.io/intro_archicad/paredes/juncoes.html</loc>
-         <lastmod>2025-03-19</lastmod>
+         <lastmod>2025-09-21</lastmod>
+    </url>
+    <url>
+         <loc>https://255ribeiro.github.io/intro_archicad/paredes/paredes.html</loc>
+         <lastmod>2025-09-21</lastmod>
     </url>
     <url>
          <loc>https://255ribeiro.github.io/intro_archicad/roteiros/roteiro_aula_01.html</loc>
-         <lastmod>2025-03-19</lastmod>
+         <lastmod>2025-09-21</lastmod>
     </url>
 </urlset>

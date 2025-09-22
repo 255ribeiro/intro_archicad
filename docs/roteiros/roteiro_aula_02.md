@@ -64,6 +64,7 @@ O objetivo desta aula é apresentar a modelagem de paredes
 4. coloque os elementos em escala
 5. Configure os pisos ```cltr + 7```
 6. modele as paredes do pav. térreo.
-7. envie o modelo por uma tarefa no Moodle.
+7. envie o modelo por uma tarefa no canvas.
+
 _______________
 _______________

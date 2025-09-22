@@ -2,13 +2,13 @@
 
 ## Sequência de aulas
 
-1. Apresentação da interface - dados de projeto;
-2. níveis e paredes;
-3. paredes parte 2 - lajes;
-4. composições;
-5. janelas e portas;
-6. cobertura e escadas;
-7. paredes cortina;
-8. Cotas e textos principais;
-9. impressão parte 1- mapa de vistas;
-10. impressão parte 2 - Livro de layouts e conjunto publicador.
+01. Apresentação da interface - dados de projeto;
+02. níveis e paredes;
+03. paredes parte 2 - lajes;
+04. composições - terreno;
+05. janelas e portas;
+06. cobertura e escadas;
+07. paredes cortina;
+08. Cotas e textos principais;
+09. impressão parte 1- mapa de vistas;
+10. impressão parte 2 - Livro de Layouts e Conjunto Publicador.

@@ -50,8 +50,16 @@ nav:
     - Representação gráfica: impressao/representacao.md
     
   - Roteiros:
-    - Roteiro aula 1: roteiros/roteiro_aula_01.md
-    - Roteiro aula 2: roteiros/roteiro_aula_02.md
+    - Roteiro aula 01: roteiros/roteiro_aula_01.md
+    - Roteiro aula 02: roteiros/roteiro_aula_02.md
+    - Roteiro aula 03: roteiros/roteiro_aula_03.md
+    - Roteiro aula 04: roteiros/roteiro_aula_04.md
+    - Roteiro aula 05: roteiros/roteiro_aula_05.md
+    - Roteiro aula 06: roteiros/roteiro_aula_06.md
+    - Roteiro aula 07: roteiros/roteiro_aula_07.md
+    - Roteiro aula 08: roteiros/roteiro_aula_08.md
+    - Roteiro aula 09: roteiros/roteiro_aula_09.md
+    - Roteiro aula 10: roteiros/roteiro_aula_10.md
   
 
 markdown_extensions:

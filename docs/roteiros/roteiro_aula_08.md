@@ -58,6 +58,6 @@ O objetivo desta aula é apresentar a modelagem de paredes
 
 <h4 style="background:lightblue"> Descrições e Procedimentos</h4>
 
-
+Cotas e zonas e textos
 _______________
 _______________

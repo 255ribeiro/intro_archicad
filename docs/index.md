@@ -10,5 +10,5 @@
 6. escadas;
 7. paredes cortina;
 8. Cotas e zonas e textos;
-9. impressão parte 1- mapa de vistas - escalas;
+9. impressão parte 1- mapa de vistas - escalas, canetas, ;
 10. impressão parte 2 - Livro de Layouts e Conjunto Publicador.

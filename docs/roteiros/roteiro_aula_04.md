@@ -58,6 +58,7 @@ O objetivo desta aula é apresentar a modelagem de paredes
 
 <h4 style="background:lightblue"> Descrições e Procedimentos</h4>
 
+1. Insira portas e janelas conforme projeto
 
 _______________
 _______________

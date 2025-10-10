@@ -42,7 +42,7 @@ nav:
     - Escadas: escadas/escadas.md
   - Informações de desenho:
     - cotas: dimensoes/dimensoes.md
-  - Zonas: zonas/zonas.md
+    - Zonas: zonas/zonas.md
   - Impressão:
     - mapa de vistas: impressao/mapa_de_vistas.md
     - Livro de Leiautes: impressao/livro_de_layouts.md

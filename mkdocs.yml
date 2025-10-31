@@ -5,7 +5,8 @@ copyright: Copyright &copy; 2025 Fernando Ferraz Ribeiro
 
 theme:
   features:
-
+    # copy button on code blocks
+    - content.code.copy
     #- navigation.sections
     - toc.integrate
     #- navigation.tabs
@@ -17,8 +18,6 @@ theme:
       scheme: default
       primary: teal
       accent: blue
-
-  
 
 site_url: "https://255ribeiro.github.io/intro_archicad/"
 repo_url: "https://github.com/255ribeiro/intro_archicad/"
@@ -48,7 +47,10 @@ nav:
     - Livro de Leiautes: impressao/livro_de_layouts.md
     - Conjunto Publicador: impressao/conjunto_pup.md
     - Representação gráfica: impressao/representacao.md
-    
+  - Terreno:
+    - Modelagem de Terrenos: ./terreno/terreno_modelagem.md
+    - Geração de terreno utilizado o Blender: ./terreno/terreno_extra/terreno_blender.md
+  
   - Roteiros:
     - Roteiro aula 01: roteiros/roteiro_aula_01.md
     - Roteiro aula 02: roteiros/roteiro_aula_02.md
@@ -63,6 +65,13 @@ nav:
   
 
 markdown_extensions:
+  - pymdownx.highlight:
+     anchor_linenums: true
+     line_spans: __span
+     pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
   - admonition
   - pymdownx.details
   - pymdownx.superfences

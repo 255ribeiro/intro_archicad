@@ -43,6 +43,7 @@ nav:
     - cotas: dimensoes/dimensoes.md
     - Zonas: zonas/zonas.md
   - Impressão:
+    - Canetas: impressao/canetas/canetas.md
     - mapa de vistas: impressao/mapa_de_vistas.md
     - Livro de Leiautes: impressao/livro_de_layouts.md
     - Conjunto Publicador: impressao/conjunto_pup.md

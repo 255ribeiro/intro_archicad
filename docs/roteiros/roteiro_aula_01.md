@@ -74,16 +74,16 @@ O objetivo principal dessa primeira aula é apresentar a interface do software A
       2. Empresa do cliente (Senai Cimatec)
       3. Endereço do Cliente (endereço do Cimetec)
 3. Verifique as configurações de unidades em:  **Opções -> Preferência do projeto -> Unidades de Trabalho**.
-6. Na **Caixa de ferramentas** explore as opções de desenho de:
+4. Na **Caixa de ferramentas** explore as opções de desenho de:
    1. paredes
    2. pisos
    3. portas
    4. janelas
-7. Explore a navegação pelas vistas 2D e 3D.
-8. Ao desenhar pisos, vejas as configurações de níveis em:
+5. Explore a navegação pelas vistas 2D e 3D.
+6. Ao desenhar pisos, vejas as configurações de níveis em:
    1. **Mapa de projetos -> clicando o botão direito em Pisos -> Definições de piso**
    2. Ou pelo atalho **Ctrl + 7**
-9.  Salve o arquivo com o seguinte nome: **Nome do aluno_aula_ano_mes_dia**. Salvar como pln.
-10. Ao final da exploração, envie o arquivo pelo canvas.
+7.  Salve o arquivo com o seguinte nome: **Nome do aluno_aula_ano_mes_dia**. Salvar como pln.
+8. Ao final da exploração, envie o arquivo pelo canvas.
 _______________
 _______________

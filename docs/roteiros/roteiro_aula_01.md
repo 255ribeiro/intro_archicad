@@ -70,9 +70,9 @@ O objetivo principal dessa primeira aula é apresentar a interface do software A
          2. e-mail do contato (seu e-mail cadastrado no sistema da universidade)
          3. Empresa do projeto (Senai-Cimatec)
       3. Detalhes do Cliente
-      1. Cliente (nome do professor)
-      2. Empresa do cliente (Senai Cimatec)
-      3. Endereço do Cliente (endereço do Cimetec)
+         1. Cliente (nome do professor)
+         2. Empresa do cliente (Senai Cimatec)
+         3. Endereço do Cliente (endereço do Cimetec)
 3. Verifique as configurações de unidades em:  **Opções -> Preferência do projeto -> Unidades de Trabalho**.
 4. Na **Caixa de ferramentas** explore as opções de desenho de:
    1. paredes

@@ -61,9 +61,18 @@ O objetivo principal dessa primeira aula é apresentar a interface do software A
 
 1. Abra o Archicad, escolha criar um novo projeto.
 2. Prrencha seus dados em **Arquivo -> Informações do projeto** e preencha as informações conforme indicado abaixo:
-   1. Nome do projetista (o seu nome)
-   2. Nome do projeto (nome da disciplina e do módulo)
-   3. Cliente (nome do professor)
+   1. Detahles do porojet:
+      2. Nome do projeto (nome da disciplina e do módulo)
+      3. Fase do projeto (Estudo Preliminar)
+   2. Detelhes do projetista
+      1. Nome do projetista (seu nome)
+      1. Departamento do contado (nome do seu curso)
+      2. e-mail do contato (seu e-mail cadastrado no sistema da universidade)
+      3. Empresa do projeto (Senai-Cimatec)
+   3. Detalhes do Cliente
+      1. Cliente (nome do professor)
+      2. Empresa do cliente (Senai Cimatec)
+      3. Endereço do Cliente (endereço do Cimetec)
 3. Verifique as configurações de unidades em:  **Opções -> Preferência do projeto -> Unidades de Trabalho**.
 4. Em **Opções> Preferência do projeto> Definições de localização** simule a inserção de coordenadas geográficas. Veja também as opções:
     - **Opções> Preferência do projeto> Definir Norte do Projeto**
@@ -77,7 +86,7 @@ O objetivo principal dessa primeira aula é apresentar a interface do software A
 8. Ao desenhar pisos, vejas as configurações de níveis em:
    1. **Mapa de projetos -> clicando o botão direito em Pisos -> Definições de piso**
    2. Ou pelo atalho **Ctrl + 7**
-9. Salve o arquivo com o seguinte nome: **Nome do aluno_aula_ano_mes_dia**. Salvar como pln.
+9.  Salve o arquivo com o seguinte nome: **Nome do aluno_aula_ano_mes_dia**. Salvar como pln.
 10. Ao final da exploração, envie o arquivo pelo canvas.
 _______________
 _______________

@@ -102,7 +102,9 @@ features = [
     "search.suggest",                    # shows search suggestions while typing
     "toc.follow",                        # auto-scrolls TOC to active anchor
     # "toc.integrate",
-    "content.footnote.tooltips"                  # moves TOC into the left navigation sidebar
+    "content.footnote.tooltips"  ,             # moves TOC into the left navigation sidebar
+    "content.action.edit",
+    "content.action.view",
 ]
 
 [project.theme.icon]

@@ -1,0 +1,172 @@
+[project]
+site_name = "Introdução ao Archicad"
+site_description = "Anotações de aula sobre o uso do Archicad"
+site_author = "Fernando Ferraz Ribeiro"
+copyright = """
+Copyright &copy; 2026 The authors
+"""
+repo_url = "https://github.com/255ribeiro/intro_archicad.git"
+site_url = "https://github.com/255ribeiro/intro_archicad"
+
+
+repo_name = "255ribeiro/intro_archicad"
+
+
+
+
+
+# extra_javascript = [
+#     "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js",  # 1st - the library
+#     "javascripts/download_zip_folder.js"                                 # 2nd - your code that uses it
+# ]
+
+nav = [
+  {"Home" = "index.md"},
+  {"Referências para modelagem" = "exemplo_projeto/projeto_modelo.md"},
+  {"Interface" = "interface_arch/interface.md"},
+  {"Modelagem" = [
+    {"Inserindo desenhos de referência" = "folhas_de_trabalho/referencias.md"},
+    {"Níveis de pisos" = "pisos/pisos.md"},
+    {"Paredes" = [
+      {"inserção" = "paredes/paredes.md"},
+      {"Junções" = "paredes/juncoes.md"},
+    ]},
+    {"Esquadrias" = [
+      {"Portas e janelas" = "janelas_portas/janelas_portas.md"},
+    ]},
+    {"Paredes cortina" = "paredes_cortina/paredes_cortina.md"},
+    {"Composições" = "composicoes/composicoes.md"},
+    {"Cobertura" = "cobertura/cobertura.md"},
+    {"Escadas" = "escadas/escadas.md"},
+  ]},
+  {"Informações de desenho" = [
+    {"cotas" = "dimensoes/dimensoes.md"},
+    {"Zonas" = "zonas/zonas.md"},
+  ]},
+  {"Impressão" = [
+    {"Canetas" = "impressao/canetas/canetas.md"},
+    {"mapa de vistas" = "impressao/mapa_de_vistas.md"},
+    {"Livro de Leiautes" = "impressao/livro_de_layouts.md"},
+    {"Conjunto Publicador" = "impressao/conjunto_pup.md"},
+    {"Representação gráfica" = "impressao/representacao.md"},
+  ]},
+  {"Terreno" = [
+    {"Modelagem de Terrenos" = "terreno/terreno_modelagem.md"},
+    {"Geração de terreno utilizado o Blender" = "terreno/terreno_extra/terreno_blender.md"},
+  ]},
+  {"Roteiros" = [
+    {"Roteiro aula 01" = "roteiros/roteiro_aula_01.md"},
+    {"Roteiro aula 02" = "roteiros/roteiro_aula_02.md"},
+    {"Roteiro aula 03" = "roteiros/roteiro_aula_03.md"},
+    {"Roteiro aula 04" = "roteiros/roteiro_aula_04.md"},
+    {"Roteiro aula 05" = "roteiros/roteiro_aula_05.md"},
+    {"Roteiro aula 06" = "roteiros/roteiro_aula_06.md"},
+    {"Roteiro aula 07" = "roteiros/roteiro_aula_07.md"},
+    {"Roteiro aula 08" = "roteiros/roteiro_aula_08.md"},
+    {"Roteiro aula 09" = "roteiros/roteiro_aula_09.md"},
+    {"Roteiro aula 10" = "roteiros/roteiro_aula_10.md"},
+  ]},
+]
+
+[project.theme]
+variant = "classic"
+language = "pt-BR"
+
+
+features = [
+    "announce.dismiss",                  # allows users to dismiss the announcement bar
+    # "content.action.view",             # adds a button to view the page source
+    # "content.action.edit",             # adds a button to edit the page in the repo
+    "content.code.annotate",             # enables annotations inside code blocks
+    "content.code.copy",                 # adds a copy button to code blocks
+    "content.code.select",               # adds a line range selection button to code blocks
+    "content.footnote.tooltips",         # renders footnotes as inline tooltips
+    "content.tabs.link",                 # syncs all content tabs with the same label
+    "content.tooltips",                  # enables tooltips on links
+    # "header.autohide",                 # hides header when scrolling down
+    # "navigation.expand",               # expands all nav sections by default
+    # "navigation.footer",               # adds prev/next page links in footer
+    # "navigation.indexes",              # attaches index.md to section headers
+    "navigation.instant",                # enables instant navigation via XHR
+    "navigation.instant.prefetch",       # prefetches pages on link hover
+    "navigation.instant.progress",       # shows progress bar on slow connections
+    "navigation.path",                   # shows breadcrumb above page title
+    # "navigation.prune",                # only renders visible nav items (reduces size)
+    # "navigation.sections",             # renders top-level sections as flat groups
+    # "navigation.tabs",                 # renders top-level sections as header tabs
+    # "navigation.tabs.sticky",          # keeps tabs visible while scrolling
+    "navigation.top",                    # shows back-to-top button
+    "navigation.tracking",               # updates URL with active anchor
+    "search.highlight",                  # highlights search terms after following result
+    "search.share",                      # adds a share button to search results
+    "search.suggest",                    # shows search suggestions while typing
+    "toc.follow",                        # auto-scrolls TOC to active anchor
+    # "toc.integrate",
+    "content.footnote.tooltips"                  # moves TOC into the left navigation sidebar
+]
+
+[project.theme.icon]
+logo = "lucide/drafting-compass"
+
+# Palette toggle for automatic mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Switch to light mode"
+
+# Palette toggle for light mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "teal"
+accent = "indigo"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+
+# Palette toggle for dark mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "lime"
+accent = "yellow"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to system preference"
+
+[project.markdown_extensions]
+attr_list = {}
+md_in_html = {}
+pymdownx.blocks.caption = {}
+
+[project.markdown_extensions.footnotes]
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.superfences]
+custom_fences = [
+  { name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" }
+]
+[project.markdown_extensions.pymdownx.tabbed]
+alternate_style = true
+
+[project.markdown_extensions.toc]
+toc_depth = 1
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/255ribeiro"
+name = "GitHub"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/linkedin"
+link = "https://www.linkedin.com/in/fernando-ferraz-ribeiro-b49a7bb0/"
+name = "LinkedIn"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/youtube"
+link = "https://www.youtube.com/@ferrax"
+name = "youtube"
+
+[[project.extra.social]]
+icon = "fontawesome/solid/envelope"
+link = "mailto:ffribeiro@gmail.com"
+name = "Email"

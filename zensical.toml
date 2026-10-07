@@ -45,7 +45,7 @@ nav = [
   ]},
   {"Impressão" = [
     {"Importação de atributos" = "impressao/atributos/index.md"},
-    {"mapa de vistas" = "impressao/mapa_de_vistas.md"},
+    {"Mapa de vistas" = "impressao/mapa_de_vistas.md"},
     {"Livro de Leiautes" = "impressao/livro_de_layouts.md"},
     {"Conjunto Publicador" = "impressao/conjunto_pup.md"},
     {"Representação gráfica" = "impressao/representacao.md"},

@@ -11,10 +11,6 @@ site_url = "https://github.com/255ribeiro/intro_archicad"
 
 repo_name = "255ribeiro/intro_archicad"
 
-
-
-
-
 # extra_javascript = [
 #     "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js",  # 1st - the library
 #     "javascripts/download_zip_folder.js"                                 # 2nd - your code that uses it

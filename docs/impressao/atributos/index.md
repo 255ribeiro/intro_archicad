@@ -2,22 +2,31 @@
 
 -----
 
+## Canetas e cores
+
 [Baixar configuração de canetas](<CANETAS ARCHICAD.xml>)
 
 Carregando configurações de canetas:
 
 ![atributos](atributos.png)
 
------
-
-[Combinações de vegetais](comb_vegetais.xml)
-
------
-
-[Modelos de visualização](mod_viz_mpc.xml)
-
------
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fnbg8tnVBmM?si=9qYfwTT2YrEb-eEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 -----
+
+## Combinação de vegetais
+
+[Combinações de vegetais](comb_vegetais.xml)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cRhvuO5gEAE?si=0hLeMb_QneR6qb4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+-----
+
+## Opções de visualização de modelos
+
+[Configurações de opções de visualização de modelos](mod_viz_mpc.xml)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1fQjIEkszWQ?si=XKJ4sps3Pii1yyDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+-----
+

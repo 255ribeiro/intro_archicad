@@ -1,10 +1,20 @@
-# Canetas
+# Importação de atributos
+
+-----
 
 [Baixar configuração de canetas](<CANETAS ARCHICAD.xml>)
 
 Carregando configurações de canetas:
 
 ![atributos](atributos.png)
+
+-----
+
+[Combinações de vegetais](comb_vegetais.xml)
+
+-----
+
+[Modelos de visualização](mod_viz_mpc.xml)
 
 -----
 
